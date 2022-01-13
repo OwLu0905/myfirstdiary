@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post edittt",
+      "datetime": "January 07, 2022 11:48:14 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "asdwq",
+      "datetime": "January 12, 2022 12:27:19 PM",
+      "body": "asfsafZczc"
+    },
+    {
+      "id": 4,
+      "title": "33",
+      "datetime": "January 12, 2022 12:34:08 PM",
+      "body": "yugugu32"
+    },
+    {
+      "id": 5,
+      "title": "asf",
+      "datetime": "January 12, 2022 12:27:14 PM",
+      "body": "f3f12f"
+    },
+    {
+      "id": 6,
+      "title": "asaffw",
+      "datetime": "January 12, 2022 12:19:29 PM",
+      "body": "d1df f32ff"
+    }
+  ]
+}
