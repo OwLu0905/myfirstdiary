@@ -10,3 +10,7 @@ npx json-server -p 3500 -w data/db.json
 ```node=
 npm start
 ```
+
+## fetch API
+use ```axios``` to fetch data, see:
+```./src ---> ./api/posts.js```
